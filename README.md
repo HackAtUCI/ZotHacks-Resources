@@ -50,4 +50,4 @@ Inkscape [Download](https://inkscape.org/en/) | [Guide](https://inkscape.org/lea
 
 Sketch [Download](http://bohemiancoding.com/sketch/) | [Guide](https://www.sketchapp.com/docs/)
 
-PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelmator.com/tutorials/)
+PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelmator.com/tutorials/) **MAC ONLY**
