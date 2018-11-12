@@ -1,8 +1,8 @@
-#ZotHacks Software Resources
+# ZotHacks Software Resources
 Here is a list of software that is recommended to be downloaded before the hackathon.
 Feel free to bookmark this page for reference.
 
-##Languages and Frameworks
+## Languages and Frameworks
 
 Python [Download](https://www.python.org/downloads/) | [Python3.7 Documentation](https://docs.python.org/3/)
 
@@ -12,7 +12,7 @@ Node.js [Download](https://nodejs.org/en/) | [Node.js Documentation](https://nod
 
 Ruby [Download](https://www.ruby-lang.org/en/downloads/) | [Ruby Documentation](https://www.ruby-lang.org/en/documentation/)
 
-##Text Editors
+## Text Editors
 
 Atom [Download](https://atom.io/)
 
@@ -22,7 +22,7 @@ Vi/Vim [Download](https://www.vim.org/)
 
 Emacs [Download](https://www.gnu.org/software/emacs/)
 
-#Integrated Development Environments(IDE)
+## Integrated Development Environments(IDE)
 
 PyCharm [Download](https://www.jetbrains.com/pycharm/) | [Documentation](https://www.jetbrains.com/pycharm/documentation/)
 
@@ -30,15 +30,15 @@ Eclipse [Download](https://www.eclipse.org/) | [Documentation](https://www.eclip
 
 Visual Studio Code [Download](https://code.visualstudio.com/) | [Documentation](https://code.visualstudio.com/docs)
 
-##Android Development
+## Android Development
 
 Android Studio [Download](https://developer.android.com/studio/) | [Documentation](https://developer.android.com/docs/)
 
-##iOS Development
+## iOS Development
 
 Xcode [Download](https://developer.apple.com/xcode/) | [Documentation](https://developer.apple.com/documentation/) **MAC ONLY** 
 
-##Image Editing Software
+## Image Editing Software
 
 Photoshop [Download](http://www.adobe.com/products/photoshop.html) | [Guide](https://helpx.adobe.com/photoshop/user-guide.html)
 
