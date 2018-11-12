@@ -42,14 +42,15 @@ Android applications are written in Java. Android Studio provides visual interfa
 
 ## iOS Development
 
-Xcode [Download](https://developer.apple.com/xcode/) | [Documentation] | (https://developer.apple.com/documentation/) **MAC ONLY** 
+Xcode [Download](https://developer.apple.com/xcode/) | [Documentation](https://developer.apple.com/documentation/) **MAC ONLY** 
 
 Tip: Both Android Studio and Xcode have powerful interfaces that streamline mobile app development. Here are some tutorials we recommend to understand these interfaces:
 
 [Android Studio Tutorial](https://www.youtube.com/watch?v=dFlPARW5IX8)
+
 [Xcode Tutorial](https://www.youtube.com/watch?v=5b91dFhZz0g)
 
-There are TONS of other resources online for mobile app development, including the official documentation linked above.
+There are TONS of other resources online for mobile app development, including the official documentation linked above. 
 
 ## Image Editing Software
 
