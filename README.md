@@ -52,6 +52,11 @@ Tip: Both Android Studio and Xcode have powerful interfaces that streamline mobi
 
 There are TONS of other resources online for mobile app development, including the official documentation linked above. 
 
+## Game Development
+
+Unity 5.0 [Download](https://unity3d.com/) | [Documentation](https://docs.unity3d.com/Manual/index.html)
+
+
 ## Image Editing Software
 
 Photoshop [Download](http://www.adobe.com/products/photoshop.html) | [Guide](https://helpx.adobe.com/photoshop/user-guide.html)
