@@ -1,4 +1,21 @@
-# ZotHacks Software Resources
+# ZotHacks Resources
+
+## Index
+1. Software Resources
+2. Project Ideas
+3. Python Resources
+4. Mobile Development Resources
+5. Hack at UCI Workshop Templates
+6. UX And UI Design Resources
+7. Credits
+
+
+
+
+
+
+
+# Software Resources
 Here is a list of software that is recommended to be downloaded before the hackathon.
 Feel free to bookmark this page for reference.
 
@@ -36,7 +53,7 @@ Visual Studio Code [Download](https://code.visualstudio.com/) | [Documentation](
 
 ## Android Development
 
-Android Studio [Download](https://developer.android.com/studio/) | [Documentation](https://developer.android.com/docs/) | [Guide](https://developer.android.com/studio/intro/)
+Android Studio [Download](https://developer.android.com/studio/) | [Documentation](https://developer.android.com/docs/) | [Guide](https://developer.android.com/studio/intro/) | [Detailed Resources](#android)
 
 Android applications are written in Java. Android Studio provides visual interface and fast emulators to develop Android applications faster. 
 
@@ -171,4 +188,68 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
 + <a href = "https://www.youtube.com/watch?v=zRwy8gtgJ1A&list=PLillGF-RfqbbbPz6GSEM9hLQObuQjNoj_">Flask from scratch in Python</a>
 + <a href = "https://www.youtube.com/watch?v=j5wysXqaIV8">CS50 Flask</a>
 
+
+# Mobile Development Resources
+
+
+# Android
+
+## Index
+
+1. [References](#references)
+2. [Publish](#publish)
+3. [Misc. Resources](#misc-resources)
+4. [Flutter](#flutter)
+5. [React Native](#react-native)
+
+
+
+## References
+
++ [Android Developer Page](https://developer.android.com/)
++ [Kotlin Documentation](https://kotlinlang.org/docs/reference/)
++ [Android Jetpack](https://developer.android.com/jetpack/)
++ [Material Design](https://material.io/)
+
+
+## Publish
++ [Google Playstore](https://play.google.com/apps/publish/)  *[Paid]*  
++ [Amazon App Market](https://www.amazon.com/b?node=2350149011) *[Free]*
++ [APTOIDE](https://www.aptoide.com/page/publishers) *[Free]*
++ [Appszoom](http://www.appszoom.com/developers) *[Free]*
++ [GETJAR](http://developer.getjar.mobi/) *[Free]*
++ [Opera Mobile Store](https://publishers.apps.opera.com/) *[Free]*
++ [ Mobango](http://developer.mobango.com/view/homedeveloper.php?developerHeader=1) *[Free]*
++ [SlideME](http://slideme.org/developers) *[Free]*
++ [1MOBILE](http://slideme.org/developers) *[Free]*
++ [Post your project and get in touch with top mobile app development companies](https://www.appfutura.com/app-projects) *[Free]*
++ [C.Net](https://www.amazon.com/b?node=2350149011) *[Free]*
++ [Appsgeyser](https://www.appsgeyser.com/create/start) *[Free]*
++ [F-Droid](https://f-droid.org/en/docs/Submitting_to_F-Droid_Quick_Start_Guide/) *[Free]*
+
+## Misc Resources
++ [Android Arsenal - Android Libraries Directory](https://android-arsenal.com/)
++ [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)
++ [Udacity Free Course](https://classroom.udacity.com/courses/ud905)
+
+## Newsletter
++ [Android Weekly](https://androidweekly.net/)
++ [Android Developer Newsletter by Google](https://developer.android.com/newsletter/)
+
+# Flutter
+Flutter is Google’s mobile app SDK for crafting high-quality native interfaces on iOS and Android in record time. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.:heart_eyes:
+
+## Resources
+* [Flutter Official Documentation](http://flutter.io)
+* [Build Native Mobile Apps with Flutter by Google](https://in.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) _[Free]_ 
+* [Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/learn-flutter-dart-to-build-ios-android-apps/) _[Paid]_
+
+# React Native
+With React Native, you don't build a "mobile web app", an "HTML5 app", or a "hybrid app". You build a real mobile app that's indistinguishable from an app built using Objective-C or Java. React Native uses the same fundamental UI building blocks as regular iOS and Android apps. You just put those building blocks together using JavaScript and React.
+
+## Resources
+
++ [Official Documentation](https://facebook.github.io/react-native/docs/getting-started)
++ [React Native Express](http://www.reactnativeexpress.com/) _[Free]_
++ [The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course/) _[Paid]_
 
