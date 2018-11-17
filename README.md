@@ -1,13 +1,13 @@
 # ZotHacks Resources
 
 ## Index
-1. Software Resources
-2. Project Ideas
-3. Python Resources
-4. Mobile Development Resources
-5. Hack at UCI Workshop Templates
-6. UX And UI Design Resources
-7. Credits
+1. [Software Resources](#software-resources)
+2. [Project Ideas](#project-ideas)
+3. [Python Resources](#python-resources)
+4. [Mobile Development Resources](#mobile-development-resources)
+5. [Hack at UCI Workshop Templates](#hack-at-uci-workshop-templates)
+6. [UX And UI Design Resources](#ui-and-ux-design-resources)
+7. [Credits](#credits)
 
 
 
