@@ -308,7 +308,7 @@ NodeJS [Template](https://github.com/hackuci/learn-node-template) | [Completed C
 
 Reddit API [Template](https://github.com/hackuci/learn-reddit-flask-template)
 
-# UI and UX Resources
+# UI and UX Design Resources
 
 ## Index
   1. [Online Prototyping](#online-prototyping)
@@ -414,3 +414,9 @@ Reddit API [Template](https://github.com/hackuci/learn-reddit-flask-template)
   Flat UI Design Showcase: http://fltdsgn.com/  
   http://thematboard.com/  
   
+
+## Credits
+
+https://github.com/dipakkr/A-to-Z-Resources-for-Students
+https://www.programmableweb.com/category/all/apis
+https://gist.github.com/teybannerman/9c234424eb1d940a8505
