@@ -3,15 +3,13 @@
 ## Index
 1. [Software Resources](#software-resources)
 2. [Project Ideas](#project-ideas)
-3. [Python Resources](#python-resources)
-4. [Mobile Development Resources](#mobile-development-resources)
-5. [Hack at UCI Workshop Templates](#hack-at-uci-workshop-templates)
-6. [UX And UI Design Resources](#ui-and-ux-design-resources)
-7. [Credits](#credits)
-
-
-
-
+3. [APIs Directory](https://www.programmableweb.com/category/all/apis)
+4. [Python Resources](#python-resources)
+5. [Web Development Resources](#web-development-resources)
+6. [Mobile Development Resources](#mobile-development-resources)
+7. [Hack at UCI Workshop Resources](#hack-at-uci-workshop-resources)
+8. [UX And UI Design Resources](#ui-and-ux-design-resources)
+9. [Credits](#credits)
 
 
 
@@ -61,7 +59,7 @@ Android applications are written in Java. Android Studio provides visual interfa
 
 Xcode [Download](https://developer.apple.com/xcode/) | [Documentation](https://developer.apple.com/documentation/) **MAC ONLY** 
 
-Tip: Both Android Studio and Xcode have powerful interfaces that streamline mobile app development. Here are some tutorials we recommend to understand these interfaces:
+**Tip**: Both Android Studio and Xcode have powerful interfaces that streamline mobile app development. Here are some tutorials we recommend to understand these interfaces:
 
 [Android Studio Tutorial](https://www.youtube.com/watch?v=dFlPARW5IX8)
 
@@ -87,6 +85,24 @@ Inkscape [Download](https://inkscape.org/en/) | [Guide](https://inkscape.org/lea
 Sketch [Download](http://bohemiancoding.com/sketch/) | [Guide](https://www.sketchapp.com/docs/)
 
 PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelmator.com/tutorials/) **MAC ONLY**
+
+<hr>
+
+## Project Ideas
+
+* Build a Slackbot that answers frequently asked questions for a channel
+* Build a collaborative todo list that can be accessed via a website
+* Build a check splitting app that can venmo request people
+* Build a webpage that can display the most popular keywords in a subreddit
+* Build a webpage that can display relevant topics from multiple social media apps like Facebook, Quora, and Instagram
+* Build a web class planner that allows you to share class schedules
+* Redesign a popular landing page for a website and deploy the landing page
+* Build a study group finding app that can find people who are near you studying the same thing
+* Build an interactive map for a campus building or campus
+* Build a productivity app that can block distractions
+* Build an app that will call or text your friends reminders to finish their tasks
+
+[More Projects](Projects.md)
 
 <hr>
 
@@ -188,9 +204,41 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
 + <a href = "https://www.youtube.com/watch?v=zRwy8gtgJ1A&list=PLillGF-RfqbbbPz6GSEM9hLQObuQjNoj_">Flask from scratch in Python</a>
 + <a href = "https://www.youtube.com/watch?v=j5wysXqaIV8">CS50 Flask</a>
 
+<hr>
+
+# Web Development Resources
+
+## NodeJS
+
+## Table of Contents
+
+1.  [Understand Nodejs](#1-understand-nodejs)
+
+    - [Not to miss the official docs](https://nodejs.org/api/)
+    - [What is nodejs - FreeCodecamp](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
+    - [Node.js V8 internals: an illustrative primer](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
+    - [What you should know to really understand the Node.js Event Loop](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
+    - [Nodeschool](https://nodeschool.io/)
+
+2)  [Event Loop](#2-event-loop)
+
+    - [Philip Roberts: What the heck is the event loop anyway? | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+    - [Event Loop series - Part 1](https://jsblog.insiderattack.net/event-loop-and-the-big-picture-nodejs-event-loop-part-1-1cb67a182810) - \*Great read for understanding nodejs with practical examples
+    - [Jake Archibald: In The Loop - JSConf.Asia 2018](https://www.youtube.com/watch?v=cCOL7MC4Pl0) - Video explaining what the even loop is.
+    - [Loupe](http://latentflip.com/loupe) - Loupe is a little visualisation to help you understand how JavaScript's call stack/event loop/callback queue interact with each other.
+
+3)  [Tutorials](#3-tutorials)
+
+    - [Node Oauth Implementation](https://www.sohamkamani.com/blog/javascript/2018-06-24-oauth-with-node-js/)
+    - [Twitter Bot Tutorial - Node.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV)
+
+## ReactJS 
+
+[ReactJS Resource List](https://github.com/enaqx/awesome-react/blob/master/README.md)
+
+<hr>
 
 # Mobile Development Resources
-
 
 # Android
 
@@ -203,14 +251,11 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
 5. [React Native](#react-native)
 
 
-
 ## References
-
 + [Android Developer Page](https://developer.android.com/)
 + [Kotlin Documentation](https://kotlinlang.org/docs/reference/)
 + [Android Jetpack](https://developer.android.com/jetpack/)
 + [Material Design](https://material.io/)
-
 
 ## Publish
 + [Google Playstore](https://play.google.com/apps/publish/)  *[Paid]*  
@@ -253,3 +298,119 @@ With React Native, you don't build a "mobile web app", an "HTML5 app", or a "hyb
 + [React Native Express](http://www.reactnativeexpress.com/) _[Free]_
 + [The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course/) _[Paid]_
 
+# Hack at UCI Workshop Resources
+
+Front-end Web Development [Template](https://github.com/hackuci/learn-front-end-template) | [Completed Code](https://github.com/hackuci/learn-front-end-completed)
+
+Git [Template](https://github.com/hackuci/learn-git-2.0-template) 
+
+NodeJS [Template](https://github.com/hackuci/learn-node-template) | [Completed Code](https://github.com/hackuci/learn-node-completed)
+
+Reddit API [Template](https://github.com/hackuci/learn-reddit-flask-template)
+
+# UI and UX Resources
+
+## Index
+  1. [Online Prototyping](#online-prototyping)
+  2. [User Testing & Feedback](#user-testing-&-feedback)
+  3. [UI Design Patterns](#ui-design-patterns)
+  4. [Colors & Gradients](#colors-&-gradients)
+  5. [User & Profile Photos](#user-&-profile-photos)
+  6. [Stock Photography](#stock-photography)
+  7. [Icons](#icons)
+  8. [Fonts](#fonts)
+  9. [Design Inspiration](#design-inspiration)
+  10. [Useful Tools](#useful-tools)
+  11. [Form Handling & Mailers](#form-handling-&-mailers)
+  12. [Resources & Guides](#resources-&-guides)
+
+## 1. Online Prototyping
+  [InVision](http://www.invisionapp.com/)  
+  [Marvel](https://marvelapp.com/)  
+  [Pixate](http://www.pixate.com/)  
+  [Webflow ($16/month)](https://webflow.com/) 
+  [UXPin ($15/month)](http://uxpin.com)  
+  [Flinto ($20/month)](https://www.flinto.com/)  
+  [Proto.io](http://proto.io)  
+  [Codiqa ($16/month)](https://codiqa.com/) 
+  
+## 2. User Testing & Feedback
+  [FiveSecondTest](http://fivesecondtest.com/)
+  [Verify](http://verifyapp.com/)  
+  [Typeform (awesome surveys)](http://www.typeform.com/)
+  [User Testing](http://www.usertesting.com/)  
+  [Feedback Army](http://www.feedbackarmy.com/)  
+  [Usabilla](https://usabilla.com/)
+  [CrazyEgg - Visualise where your visitors click](http://www.crazyegg.com/)
+  [Try My UI](http://www.trymyui.com/) 
+  [Criticue](http://www.criticue.com/)  
+  [Feedbackify (free trial, then $19/month)](http://www.feedbackify.com/)
+  [Ghostrec](http://www.ghostrec.com/) 
+  [Concept Feedback](http://www.conceptfeedback.com/)
+  [UserBob](https://userbob.com)  
+
+## 3. UI Design Patterns
+  [Pttrns](Mobile User Interface Patterns: http://www.pttrns.com/)  
+  [Pttrns Beta](http://beta.pttrns.com/)  
+  [User Flow Patterns](http://userflowpatterns.com/)  
+  [User Onboarding](http://useronboarding.com)
+  [iOS apps animated user flows](http://uxarchive.com/animated)  
+
+## 4. Colours & Gradients
+  [Adobe Color CC](https://color.adobe.com/create/color-wheel/)  
+  [Color Scheme Designer](http://paletton.com/) 
+  [Color Lovers](http://colorlovers.com)  
+  [uiGradients](http://uigraduents.com) 
+  [Subtle Patterns](http://subtlepatterns.com/) 
+  [Material Design Color Palette Generator](http://www.materialpalette.com/)  
+  [Blend - generate CSS3 gradients](http://colinkeany.com/blend/)  
+  
+## 5. User & Profile Photos
+  [UI Faces](http://uifaces.com/)  
+  [Impor.io](http://www.impor.io/)  
+  [Random User Generator](https://randomuser.me/)  
+  [Facebox (paid collection, royalty-free)](http://facebox.io/) 
+  [Random Users Generator](http://www.designskilz.com/random-users/) 
+  
+## 6. Stock Photography
+  Little Visuals http://littlevisuals.co/  
+  Unsplash http://unsplash.com/  
+  Death to the Stock Photo http://join.deathtothestockphoto.com/  
+  New Old Stock http://nos.twnsnd.co/  
+  Superfamous (requires attribution) http://superfamous.com/  
+  Picjumbo http://picjumbo.com/  
+  The Pattern Library http://thepatternlibrary.com/  
+  Gratisography http://www.gratisography.com/  
+  Getrefe http://getrefe.tumblr.com/  
+  IM Free (requires attribution) http://imcreator.com/free  
+  Jay Mantri http://jaymantri.com/  
+  Public Domain Archive http://publicdomainarchive.com/  
+  Magdeleine http://magdeleine.co/  
+  Foodiesfeed http://foodiesfeed.com  
+  Picography http://picography.co/  
+  Raumrot http://www.raumrot.com/10/  
+  ISO Republic http://isorepublic.com/  
+  All The Free Stock: http://allthefreestock.com  
+  Pexels: http://www.pexels.com  
+  Stocksy: http://www.stocksy.com/  
+
+## 7. Icons
+  NounProject: http://thenounproject.com/  
+  Google Material Design Icons: https://github.com/google/material-design-icons/releases/tag/1.0.0  
+  Flaticon (awesome): http://flaticon.com/  
+
+## 8. Fonts & Typography
+  Dafont: http://dafont.com  
+  UseModify: http://usemodify.com/  
+  Typewolf (Font inspiration, recommendations, and resources): http://www.typewolf.com  
+  Golden Ratio Typography Calculator: http://www.pearsonified.com/typography/  
+  Font pairings: http://fontsinuse.com/ http://www.typewolf.com/ http://www.typ.io/ http://blog.fontshop.com/category/great-pairs/ http://justmytype.co/ http://zurb.com/tavern/questions/what-are-your-top-5-go-to-fonts  
+
+## 9. Design Inspiration
+  Niice: http://niice.co  
+  Codrops: http://tympanus.net/codrops/  
+  Unmatched Style: http://unmatchedstyle.com  
+  Product Hunt: http://www.producthunt.com/  
+  Flat UI Design Showcase: http://fltdsgn.com/  
+  http://thematboard.com/  
+  
